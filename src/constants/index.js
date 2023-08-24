@@ -1,5 +1,5 @@
 export const apiKey = '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' ; //from https://platform.openai.com/account/api-keys
-// in some cases, your api key maybe already expired
+// in some cases, your api key maybe already expKired
 // tries to use a new account to create an api key
 
 export const dummyMessages = [
